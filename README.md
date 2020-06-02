@@ -9,3 +9,4 @@ The .STAN files correspond to the four state-space models mentioned in the text.
 The file titled "running models.R" is the code necessary to run the Stan models, and "landsat_lidar_ndvi.csv," "TEN_squares.Rdata," and "prior_list.Rdata,"
 represent inputs to the Stan models.
 
+For more information, email trevorcaughlin@boisestate.edu.
